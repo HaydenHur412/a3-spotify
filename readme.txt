@@ -1,5 +1,7 @@
 --Readme document for Hayden Hamin Hur, hurh1@uci.edu--
 
+Assignment Group Number: A3 Pair 23
+
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 10/10
