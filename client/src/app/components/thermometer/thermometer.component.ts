@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { Popularity } from 'src/app/data/popularity';
+import { Popularity } from '../../data/popularity';
 
 @Component({
     selector: 'app-thermometer',
@@ -9,6 +9,7 @@ import { Popularity } from 'src/app/data/popularity';
 })
 export class ThermometerComponent implements OnInit {
   //TODO: define Input fields and bind them to the template.
+  @Input() popularity:Popularity;
 
   constructor() { }
 
